@@ -4,3 +4,6 @@ langchain
 langchain-community
 langchain-huggingface
 faiss-cpu
+streamlit
+streamlit-chat
+sentence-transformers
